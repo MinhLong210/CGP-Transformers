@@ -1,0 +1,6 @@
+numpy==1.22.4
+cached-path==1.1.2
+einops==0.4.1
+allennlp==2.9.3
+torchmetrics==1.2.0
+matplotlib
